@@ -12,6 +12,6 @@ This repository shares a mini project I worked on in school written by Antonio R
   Finally the code returns 0 to end execution.
   
 # Notes
-The .h files were given by the institution to the students as apart of the mini-project to the students. They are noted in the
+The .h files were given by the institution to the students as apart of the mini-project to the students. They are noted in each file.
 Entering a non-digit into the key WILL CRASH the application.
 The cipher only handles capitalized letters. Modifying the test message, or file without capital letters will yield unexpected results.
