@@ -16,3 +16,4 @@ The .h files were given by the institution to the students as apart of the mini-
 Entering a non-digit into the key WILL CRASH the application.
 The cipher only handles capitalized letters. Modifying the test message, or file without capital letters will yield unexpected results.
 Application.exe does not work on all OSs. If there is a compatibility, recompile the .cpp files with the .h files to recreate the application.
+For running Application.exe, be sure to run it in a console so the information is logged for viewing.
