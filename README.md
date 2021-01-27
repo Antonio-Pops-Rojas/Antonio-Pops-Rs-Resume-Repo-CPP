@@ -15,3 +15,4 @@ This repository shares a mini project I worked on in school written by Antonio R
 The .h files were given by the institution to the students as apart of the mini-project to the students. They are noted in each file.
 Entering a non-digit into the key WILL CRASH the application.
 The cipher only handles capitalized letters. Modifying the test message, or file without capital letters will yield unexpected results.
+Application.exe does not work on all OSs. If there is a compatibility, recompile the .cpp files with the .h files to recreate the application.
